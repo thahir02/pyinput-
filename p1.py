@@ -1,4 +1,5 @@
 print("hello")
 print('hai')
 a="hello world"
-a
+A=a.upper()
+print(A)
